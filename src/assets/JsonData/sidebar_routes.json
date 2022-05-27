@@ -1,0 +1,22 @@
+[
+    {
+        "display_name": "ANA SAYFA",
+        "route": "/",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "CNC LİSTE",
+        "route": "/customers",
+        "icon": "bx bx-user-pin"
+    },
+    {
+        "display_name": "RAPORLAR",
+        "route": "/products",
+        "icon": "bx bx-package"
+    },
+    {
+        "display_name": "ÇALIŞMA SÜRELERİ",
+        "route": "/orders",
+        "icon": "bx bx-cart"
+    }
+]
